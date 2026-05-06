@@ -1,0 +1,17 @@
+{
+  "name": "ins-sec",
+  "version": "1.0.0",
+  "description": "Insurance Renewal Management Portal - Single Project",
+  "private": true,
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm run start",
+    "lint": "cd frontend && npm run lint"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.10.2",
+    "@supabase/supabase-js": "^2.104.1",
+    "next-auth": "^4.24.14"
+  }
+}
