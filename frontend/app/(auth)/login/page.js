@@ -77,9 +77,9 @@ export default function LoginPage() {
           </button>
         </form>
 
-        <p className={styles.switchText}>
+        {/* <p className={styles.switchText}>
           Don&apos;t have an account? <Link href="/register">Register</Link>
-        </p>
+        </p> */}
       </div>
     </div>
   );

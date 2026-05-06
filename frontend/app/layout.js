@@ -3,7 +3,10 @@ import { AuthProvider } from '@/lib/authContext';
 
 export const metadata = {
   title: 'Insurance Renewal Management Portal',
-  description: 'Manage client policies, track renewals, and automate alerts',
+  description: 'A comprehensive insurance renewal management system to track client policies, manage renewals, and automate alerts via email, SMS, and WhatsApp.',
+  icons: {
+    icon: '/logo.png',
+  },
 };
 
 export default function RootLayout({ children }) {

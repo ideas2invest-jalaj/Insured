@@ -6,6 +6,12 @@ import { api } from '@/lib/api';
 import styles from '../new/page.module.css';
 
 const INDIAN_INSURANCE_COMPANIES = [
+  'HDFC Ergo',
+  'Niva Bupa',
+  'Manipal Cigna',
+  'ICICI Lombard',
+  'Care Health',
+  'Tata AIG',
   'Life Insurance Corporation (LIC)',
   'HDFC Life Insurance',
   'ICICI Prudential Life Insurance',
